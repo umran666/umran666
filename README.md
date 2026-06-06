@@ -79,8 +79,9 @@ I am an **AI and Software Engineer** passionate about building robust systems, c
 ### 📊 GitHub Stats & Dynamic Telemetry
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=umran666&show_icons=true&theme=radical&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umran666&layout=compact&theme=radical" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=umran666&show_icons=true&theme=radical&count_private=true" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=umran666&theme=radical" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=umran666&layout=compact&theme=radical" />
 </p>
 
 ---
