@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?color=39FF14&center=true&vCenter=true&width=650&height=50&lines=AI+Architect+%7C+Multi-LLM+Consensus+Engineers;Building+RAG+Pipelines+With+Long-Term+Memory;Transforming+Complex+Logic+Into+Autonomous+Systems!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?color=39FF14&center=true&vCenter=true&width=700&height=50&lines=AI+Architect+%7C+Multi-LLM+Engineers;Building+RAG+Pipelines+With+Persistent+Memory;Transforming+Complex+Logic+Into+Resilient+Code!" alt="Typing SVG" />
   </a>
 </p>
 
