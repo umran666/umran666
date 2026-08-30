@@ -141,7 +141,7 @@ Philosophy:
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=umran666&theme=github-dark&bg_color=0d1117&color=58a6ff&line=39FF14&point=ffffff&area=true&area_color=39FF1420&hide_border=true" width="98%" alt="Contribution Graph" />
+  <img src="https://ghchart.rshah.org/39FF14/umran666" width="98%" alt="Contribution Graph" />
 </p>
 
 <p align="center">
