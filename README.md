@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Banner.gif" width="100%" alt="Shaik Umran Cybernetic Header Banner" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0, 255, 170, 0.2);" />
+  <img src="./Duck-ai-image-2026-08-30-11-17.jpeg" width="100%" alt="Shaik Umran Cybernetic Header Banner" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0, 255, 170, 0.2);" />
 </p>
 
 <p align="center">
