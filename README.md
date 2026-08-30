@@ -1,5 +1,3 @@
-<!-- CAPSULE HERO — FULL AESTHETIC -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,35:0a0a0b,70:161b22,100:39FF14&height=220&section=header&text=SHAIK%20UMRAN&fontSize=42&fontColor=39FF14&animation=fadeIn&fontAlignY=36&desc=AI%20Architect%20%E2%80%A2%20Multi-LLM%20Systems%20%E2%80%A2%20RAG%20%2B%20Memory&descAlignY=55&descAlign=50" width="100%" />
 
 <!-- BANNER — DOUBLE BEZEL -->
 <div style="background:rgba(255,255,255,0.04); border:1px solid rgba(255,255,255,0.06); border-radius:32px; padding:8px; margin-top:-28px;">
