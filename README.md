@@ -73,7 +73,7 @@ Philosophy:
 <h2 align="center">Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,ts,js,react,nextjs,html,css,tailwind,postgres,docker,git,linux,vscode,vercel&perline=8&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,js,html,css,tailwind,postgres,docker,git,linux,vscode,vercel&perline=7&theme=dark" />
 </p>
 
 <p align="center">
