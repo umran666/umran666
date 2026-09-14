@@ -114,22 +114,22 @@ Philosophy:
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/umran666/AI-Career-Guidance">AI Career Guidance</a></h3>
+      <h3 align="center"><a href="https://github.com/umran666/KEditVis-LLM-Editing">KEditVis-LLM-Editing</a></h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/GPT--2--XL-412991?style=flat-square&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/GPT--J--6B-39FF14?style=flat-square&labelColor=050505" />
       </p>
-      <p align="center"><i>Interactive career navigation with dynamic skill assessment and personalized AI/ML learning tracks.</i></p>
-      <p align="center"><a href="https://ai-career-guidance-five.vercel.app"><b>Live Demo</b></a></p>
+      <p align="center"><i>Interactive visual analytics for human-in-the-loop knowledge editing in LLMs. Adapted across GPT-2-XL and GPT-J-6B.</i></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/umran666/AD-Blocker">AD Blocker</a></h3>
+      <h3 align="center"><a href="https://github.com/umran666/UniqToken">UniqToken</a></h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/WebExtension-FF7139?style=flat-square&logo=firefox&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+        <img src="https://img.shields.io/badge/NLP-58a6ff?style=flat-square&labelColor=0a0a0f" />
       </p>
-      <p align="center"><i>Lightweight browser extension that strips ads, popups, and tracking scripts for a pristine, faster web.</i></p>
+      <p align="center"><i>High-precision byte-fallback unigram tokenizer with dual-offset tracking, arithmetic isolation, and multilingual Unicode protection.</i></p>
     </td>
   </tr>
 </table>
