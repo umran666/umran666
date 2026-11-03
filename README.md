@@ -23,51 +23,6 @@
 
 <br/>
 
-<!-- ═══════════════════════ ABOUT ═══════════════════════ -->
-
-<h2 align="center">About Me</h2>
-
-<p align="center"><i>Turning high-dimensional vectors into deterministic software, and coffee into resilient code.</i></p>
-
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-
-```yaml
-Role: AI & Software Engineer
-
-Current Focus:
-  - Multi-LLM Consensus Architectures
-  - RAG Pipelines with Persistent Memory
-  - High-Throughput Inference Workflows
-  - Zero-Downtime Autonomous AI Systems
-
-Approach:
-  - Build Reliable, Not Flashy
-  - Ship Clean, Ship Fast
-```
-
-  </td>
-    <td width="50%" valign="top">
-
-```yaml
-Experience With:
-  - Conversational AI & Memory Systems
-  - Vector Search & Document Retrieval
-  - Ensemble Model Orchestration
-  - Browser Extension Engineering
-
-Philosophy:
-  - Simple Beats Complex
-  - Working Beats Perfect
-```
-
-  </td>
-  </tr>
-</table>
-
-<br/>
-
 <!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
 
 <h2 align="center">Tech Stack</h2>
